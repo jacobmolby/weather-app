@@ -8,6 +8,11 @@
           </router-link>
         </div>
         <router-view></router-view>
+        <div class="row">
+          Powered by &nbsp
+          <a href="https://darksky.com/poweredby">Darksky</a>&nbsp & &nbsp
+          <a href="https://mapbox.com">Mapbox</a>
+        </div>
       </div>
     </div>
   </div>
